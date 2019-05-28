@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.14" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="ua.flowerShop.Product" project="FlowerShop" 
+    file="/FlowerShop/src/ua/flowerShop/Product.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="238" x="295" y="221"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="ua.flowerShop.plant.Plant" project="FlowerShop" 
+    file="/FlowerShop/src/ua/flowerShop/plant/Plant.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="118" width="224" x="388" y="-66"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="ua.flowerShop.plant.Flower" project="FlowerShop" 
+    file="/FlowerShop/src/ua/flowerShop/plant/Flower.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="180" x="660" y="19"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="ua.flowerShop.plant.Flowerpot" project="FlowerShop" 
+    file="/FlowerShop/src/ua/flowerShop/plant/Flowerpot.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="89" width="140" x="195" y="51"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="ua.flowerShop.plant.Tree" project="FlowerShop" 
+    file="/FlowerShop/src/ua/flowerShop/plant/Tree.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="77" width="145" x="185" y="-51"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="ua.flowerShop.materialForFloristry.Bouquet" project="FlowerShop" 
+    file="/FlowerShop/src/ua/flowerShop/materialForFloristry/Bouquet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="210" x="684" y="464"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="ua.flowerShop.Florist" project="FlowerShop" 
+    file="/FlowerShop/src/ua/flowerShop/Florist.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="244" width="309" x="359" y="507"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="ua.flowerShop.materialForFloristry.Tape" project="FlowerShop" 
+    file="/FlowerShop/src/ua/flowerShop/materialForFloristry/Tape.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="78" width="142" x="607" y="156"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="ua.flowerShop.materialForFloristry.WrapperBouquet" project="FlowerShop" 
+    file="/FlowerShop/src/ua/flowerShop/materialForFloristry/WrapperBouquet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="82" width="156" x="552" y="310"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="ua.flowerShop.FlowerShop" project="FlowerShop" 
+    file="/FlowerShop/src/ua/flowerShop/FlowerShop.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="293" width="336" x="-91" y="225"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="ua.flowerShop.MainShop" project="FlowerShop" 
+    file="/FlowerShop/src/ua/flowerShop/MainShop.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="281" width="315" x="323" y="783"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="12">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="13" name="wrapper"/>      
+      <multiplicity id="14" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="15">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <association id="16">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="17" name="products"/>      
+      <multiplicity id="18" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="19">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <association id="20">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="21" name="basket"/>      
+      <multiplicity id="22" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="23">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="24" name="shop"/>      
+      <multiplicity id="25" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="26">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <generalization id="27">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="28">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <association id="29">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="30" name="flowers"/>      
+      <multiplicity id="31" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="32">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <association id="33">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="34" name="tape"/>      
+      <multiplicity id="35" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="36">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
