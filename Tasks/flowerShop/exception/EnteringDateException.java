@@ -1,4 +1,4 @@
-package ua.flowerShop;
+package ua.flowerShop.exception;
 
 public class EnteringDateException extends Exception {
 
